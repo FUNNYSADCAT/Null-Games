@@ -1,4 +1,6 @@
-getgenv().Games = {
+local Games = {
     [90192874177359] = "https://raw.githubusercontent.com/FUNNYSADCAT/Null-hub-auto-farm-ottd/refs/heads/main/Auto%20farm",-- Old Toilet Tower Defense
     [118688242561353] = "https://raw.githubusercontent.com/FUNNYSADCAT/Auto-farm-ottd-lobby/refs/heads/main/Tp%20join%20nightmare",-- lobby
 }
+
+return Games
